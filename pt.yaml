@@ -1,7 +1,9 @@
 payload:
   - DOMAIN-SUFFIX,azxin.cn
   - DOMAIN-SUFFIX,emby.azxin.cn
-  - DOMAIN-SUFFIX,pic.hhanclub.net:443
+  - DOMAIN-SUFFIX,audiences.me
+  - DOMAIN-SUFFIX,hhanclub.net
+  - DOMAIN-SUFFIX,pic.hhanclub.net
   - DOMAIN-SUFFIX,chdbits.xyz
   - DOMAIN-SUFFIX,discfan.net
   - DOMAIN-SUFFIX,discfan.xyz
