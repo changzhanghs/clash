@@ -32,7 +32,8 @@ payload:
   - DOMAIN-SUFFIX,tracker.hdkyl.in 
   - DOMAIN-SUFFIX,tracker.hdsky.me 
   - DOMAIN-SUFFIX,tracker.hdtime.org 
-  - DOMAIN-SUFFIX,tracker.hhan.club 
+  - DOMAIN-SUFFIX,tracker.hhan.club
+  - DOMAIN-SUFFIX,tracker.hhanclub.net
   - DOMAIN-SUFFIX,tracker.keepfrds.com 
   - DOMAIN-SUFFIX,tracker.leaves.red 
   - DOMAIN-SUFFIX,tracker.m-team.cc 
