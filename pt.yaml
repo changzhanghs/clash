@@ -40,7 +40,8 @@ payload:
   - DOMAIN-SUFFIX,tracker.m-team.io 
   - DOMAIN-SUFFIX,tracker.nanyangpt.com 
   - DOMAIN-SUFFIX,tracker.ptchdbits.co 
-  - DOMAIN-SUFFIX,tracker.pterclub.com 
+  - DOMAIN-SUFFIX,tracker.pterclub.com
+  - DOMAIN-SUFFIX,tracker.pterclub.net
   - DOMAIN-SUFFIX,tracker.rainbowisland.co 
   - DOMAIN-SUFFIX,tracker.totheglory.im 
   - DOMAIN-SUFFIX,tracker.zhuque.in 
