@@ -3,7 +3,6 @@ payload:
   - DOMAIN-SUFFIX,emby.azxin.cn
   - DOMAIN-SUFFIX,hhanclub.net
   - DOMAIN-SUFFIX,on.springsunday.net
-  - DOMAIN-SUFFIX,springsunday.net
   - DOMAIN-SUFFIX,pic.hhanclub.net
   - DOMAIN-SUFFIX,chdbits.xyz
   - DOMAIN-SUFFIX,discfan.net
@@ -53,7 +52,6 @@ payload:
   - DOMAIN-SUFFIX,tracker3.leaves.red 
   - DOMAIN-SUFFIX,tracker-public.tjupt.org 
   - DOMAIN-SUFFIX,www.gamegamept.com 
-  - DOMAIN-SUFFIX,www.hdkylin.top 
   - DOMAIN-SUFFIX,www.hdkylin.top 
   - DOMAIN-SUFFIX,www.htpt.cc 
   - DOMAIN-SUFFIX,www.nicept.net 
