@@ -2,6 +2,7 @@ payload:
   # DOMAIN-SUFFIX域名匹配，DOMAIN-KEYWORD关键字匹配
   - DOMAIN-KEYWORD,airav.io
   - DOMAIN-KEYWORD,avmoo
+  - DOMAIN-SUFFIX,avbase.net
   - DOMAIN-SUFFIX,fanza.jp
   - DOMAIN-SUFFIX,minnano-av.com
   - DOMAIN-SUFFIX,dmm.co.jp
