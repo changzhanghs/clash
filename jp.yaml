@@ -19,6 +19,7 @@ payload:
   - DOMAIN-SUFFIX,dmmgames.com
   - DOMAIN-SUFFIX,dmmimg.com
   - DOMAIN-SUFFIX,dmmmsrv.net
+  - DOMAIN-SUFFIX,xchina.co
   - DOMAIN-KEYWORD,mgstage
   - DOMAIN-KEYWORD,dmm
   - DOMAIN-KEYWORD,faleno
