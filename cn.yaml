@@ -41,6 +41,9 @@ payload:
   - DOMAIN-SUFFIX,hdhome.org
   - DOMAIN-SUFFIX,t.hdhome.org
 
+  # HDKylin
+  - DOMAIN-SUFFIX,www.hdkylin.top
+
   # HDPT
   - DOMAIN-SUFFIX,hdpt.xyz
 
