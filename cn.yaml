@@ -1,1 +1,125 @@
-payload: []
+payload:
+  # Azxin
+  - DOMAIN-SUFFIX,azxin.cn
+  - DOMAIN-SUFFIX,emby.azxin.cn
+
+  # Audiences
+  - DOMAIN-SUFFIX,audiences.me
+  - DOMAIN-SUFFIX,t.audiences.me
+
+  # BTSchool
+  - DOMAIN-SUFFIX,pt.btschool.club
+
+  # CHDBits
+  - DOMAIN-SUFFIX,chdbits.xyz
+  - DOMAIN-SUFFIX,ptchdbits.co
+  - DOMAIN-SUFFIX,tracker.ptchdbits.co
+
+  # Cyanbug
+  - DOMAIN-SUFFIX,cyanbug.net
+
+  # DiscFan
+  - DOMAIN-SUFFIX,discfan.net
+  - DOMAIN-SUFFIX,discfan.xyz
+
+  # DStudio
+  - DOMAIN-SUFFIX,dstudio.me
+
+  # GameGamePT
+  - DOMAIN-SUFFIX,www.gamegamept.com
+
+  # HDFans
+  - DOMAIN-SUFFIX,hdfans.org
+
+  # HDAtmos
+  - DOMAIN-SUFFIX,hdatmos.club
+
+  # HDDolby
+  - DOMAIN-SUFFIX,t.hddolby.com
+
+  # HDHome
+  - DOMAIN-SUFFIX,hdhome.org
+  - DOMAIN-SUFFIX,t.hdhome.org
+
+  # HDPT
+  - DOMAIN-SUFFIX,hdpt.xyz
+
+  # HDVideo
+  - DOMAIN-SUFFIX,hdvideo.one
+
+  # Hhanclub
+  - DOMAIN-SUFFIX,hhanclub.top
+  - DOMAIN-SUFFIX,pic.hhanclub.net
+  - DOMAIN-SUFFIX,tracker.hhan.club
+  - DOMAIN-SUFFIX,tracker.hhanclub.net
+
+  # HTPT
+  - DOMAIN-SUFFIX,www.htpt.cc
+
+  # JoyHD
+  - DOMAIN-SUFFIX,ipv4.joyhd.net
+
+  # NicePT
+  - DOMAIN-SUFFIX,www.nicept.net
+
+  # Oshen
+  - DOMAIN-SUFFIX,www.oshen.win
+
+  # OurHelp
+  - DOMAIN-SUFFIX,pt.ourhelp.club
+
+  # PTChina
+  - DOMAIN-SUFFIX,ptchina.org
+
+  # PTSBao
+  - DOMAIN-SUFFIX,ptsbao.club
+
+  # PTHome
+  - DOMAIN-SUFFIX,t.pthome.net
+  - DOMAIN-SUFFIX,t.pthome.org
+
+  # QingwaPT
+  - DOMAIN-SUFFIX,tracker.qingwa.pro
+  - DOMAIN-SUFFIX,tracker.qingwapt.com
+  - DOMAIN-SUFFIX,tracker.qingwapt.org
+
+  # Rousi
+  - DOMAIN-SUFFIX,rousi.zip
+
+  # SpringSunday
+  - DOMAIN-SUFFIX,on.springsunday.net
+
+  # UBits
+  - DOMAIN-SUFFIX,t.ubits.club
+
+  # M-Team
+  - DOMAIN-SUFFIX,tracker.m-team.cc
+  - DOMAIN-SUFFIX,tracker.m-team.io
+
+  # Leaves
+  - DOMAIN-SUFFIX,tracker.leaves.red
+  - DOMAIN-SUFFIX,tracker2.leaves.red
+  - DOMAIN-SUFFIX,tracker3.leaves.red
+
+  # PterClub
+  - DOMAIN-SUFFIX,tracker.pterclub.com
+  - DOMAIN-SUFFIX,tracker.pterclub.net
+
+  # Totheglory
+  - DOMAIN-SUFFIX,tracker.totheglory.im
+
+  # Other trackers
+  - DOMAIN-SUFFIX,tracker.52dic.vip
+  - DOMAIN-SUFFIX,tracker.carpt.net
+  - DOMAIN-SUFFIX,tracker.cinefiles.info
+  - DOMAIN-SUFFIX,tracker.hdarea.club
+  - DOMAIN-SUFFIX,tracker.hdkyl.in
+  - DOMAIN-SUFFIX,tracker.hdsky.me
+  - DOMAIN-SUFFIX,tracker.hdtime.org
+  - DOMAIN-SUFFIX,tracker.keepfrds.com
+  - DOMAIN-SUFFIX,tracker.nanyangpt.com
+  - DOMAIN-SUFFIX,tracker.open.cd
+  - DOMAIN-SUFFIX,tracker-public.tjupt.org
+  - DOMAIN-SUFFIX,tracker.rainbowisland.co
+  - DOMAIN-SUFFIX,tracker.zhuque.in
+  - DOMAIN-SUFFIX,tracker01.ilovelemonhd.me
