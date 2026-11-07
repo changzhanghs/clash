@@ -10,8 +10,8 @@ payload:
 
   # CHDBits 
   - DOMAIN-SUFFIX,chdbits.xyz
-  - DOMAIN-SUFFIX,ptchdbits.co
   - DOMAIN-SUFFIX,tracker.ptchdbits.co
+  - DOMAIN-SUFFIX,tracker.rainbowisland.co
 
   # Cyanbug 
   - DOMAIN-SUFFIX,cyanbug.net
