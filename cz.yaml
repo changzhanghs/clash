@@ -1,3 +1,4 @@
 payload:
 # - DOMAIN,movie-pilot.org
   - DOMAIN-SUFFIX,repo.istoreos.com
+  - DOMAIN-SUFFIX,hdhaven.com
