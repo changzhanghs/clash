@@ -37,6 +37,9 @@ payload:
 
   # keepfrds
   - DOMAIN-SUFFIX,tracker.keepfrds.com
+  
+  # Ourbits
+  - DOMAIN-SUFFIX,ourbits.club
 
   # OurHelp
   - DOMAIN-SUFFIX,pt.ourhelp.club
