@@ -5,7 +5,6 @@ payload:
   - DOMAIN-KEYWORD,dmm
   - DOMAIN-KEYWORD,faleno 
   - DOMAIN-KEYWORD,mgstage
-  - DOMAIN-KEYWORD,javlibrary
   
   - DOMAIN-SUFFIX,avsox.click
   - DOMAIN-SUFFIX,avbase.net
@@ -24,6 +23,7 @@ payload:
   - DOMAIN-SUFFIX,minnano-av.com
   - DOMAIN-SUFFIX,missav123.com
   - DOMAIN-SUFFIX,javarchive.com
+  - DOMAIN-SUFFIX,www.javlibrary.com
   - DOMAIN-SUFFIX,mgstage.com
   - DOMAIN-SUFFIX,xchina.co
   
