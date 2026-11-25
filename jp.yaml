@@ -2,25 +2,29 @@ payload:
   # DOMAIN-SUFFIX域名匹配，DOMAIN-KEYWORD关键字匹配
   - DOMAIN-KEYWORD,airav.io
   - DOMAIN-KEYWORD,avmoo
+  - DOMAIN-KEYWORD,dmm
+  - DOMAIN-KEYWORD,faleno 
+  - DOMAIN-KEYWORD,mgstage
+  
+  - DOMAIN-SUFFIX,avsox.click
   - DOMAIN-SUFFIX,avbase.net
-  - DOMAIN-SUFFIX,fanza.jp
-  - DOMAIN-SUFFIX,minnano-av.com
+  - DOMAIN-SUFFIX,amazon.co.jp
+  - DOMAIN-SUFFIX,caribbeancom.com
   - DOMAIN-SUFFIX,dmm.co.jp
   - DOMAIN-SUFFIX,dmm.com
   - DOMAIN-SUFFIX,dmm.hk
-  - DOMAIN-SUFFIX,amazon.co.jp
   - DOMAIN-SUFFIX,dmm-extension.com
-  - DOMAIN-SUFFIX,caribbeancom.com
-  - DOMAIN-SUFFIX,mgstage.com
-  - DOMAIN-SUFFIX,javlibrary.com
-  - DOMAIN-SUFFIX,avsox.click
-  - DOMAIN-SUFFIX,faleno.jp
   - DOMAIN-SUFFIX,dmmapi.com
   - DOMAIN-SUFFIX,dmmgames.com
   - DOMAIN-SUFFIX,dmmimg.com
   - DOMAIN-SUFFIX,dmmmsrv.net
-  - DOMAIN-SUFFIX,xchina.co
-  - DOMAIN-KEYWORD,mgstage
-  - DOMAIN-KEYWORD,dmm
-  - DOMAIN-KEYWORD,faleno
+  - DOMAIN-SUFFIX,fanza.jp
+  - DOMAIN-SUFFIX,faleno.jp
+  - DOMAIN-SUFFIX,minnano-av.com
+  - DOMAIN-SUFFIX,missav123.com
+  - DOMAIN-SUFFIX,javlibrary.com/cn
   - DOMAIN-SUFFIX,javarchive.com
+  - DOMAIN-SUFFIX,mgstage.com
+  - DOMAIN-SUFFIX,xchina.co
+  
+  
